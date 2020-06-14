@@ -1,5 +1,5 @@
 [package]
-name = "progCompe"
+name = "prog_compe"
 version = "0.1.0"
 authors = ["toshiaki <toshi.1026.1026@gmail.com>"]
 edition = "2018"
